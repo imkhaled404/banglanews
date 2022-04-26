@@ -9,25 +9,25 @@
 ###### Download or clone the reposatory. Goto project root folder.
 
 ```
-C:\>git clone https://github.com/nasim-007/khobor24ghonta.git
+C:\>git clone https://github.com/imkhaled404/banglanews.git
 
-C:\>cd khobor24ghonta
+C:\>cd banglanews
 
-C:\khobor24ghonta>virtualenv venv
+C:\banglanews>virtualenv venv
 
-C:\khobor24ghonta>cd venv
+C:\banglanews>cd venv
 
-C:\khobor24ghonta\venv>scripts\activate.bat
+C:\banglanews\venv>scripts\activate.bat
 
-(venv)C:\khobor24ghonta\venv>cd ..
+(venv)C:\banglanews\venv>cd ..
 
-(venv)C:\khobor24ghonta>pip freeze > requirements.txt
+(venv)C:\banglanews>pip freeze > requirements.txt
 
-(venv)C:\khobor24ghonta>pip install -r requirements.txt
+(venv)C:\banglanews>pip install -r requirements.txt
 
-(venv)C:\khobor24ghonta>python manage.py migrate
+(venv)C:\banglanews>python manage.py migrate
 
-(venv)C:\khobor24ghonta>python manage.py runserver
+(venv)C:\banglanews>python manage.py runserver
 ```
 
 ```
@@ -36,7 +36,7 @@ C:\khobor24ghonta\venv>scripts\activate.bat
 
 ###### create a super user using,
 ```
-(venv)C:\khobor24ghonta>python manage.py createsuperuser
+(venv)C:\banglanews>python manage.py createsuperuser
 ```
 ###### then go to http://localhost:8000/admin to accesss your administrations to control your dynamic application.
 
@@ -83,7 +83,5 @@ DATABASES = {
 ```
 ###### Congrats! everything is setup. Your project ready to deploy in heroku for live your project online.
 Get any error, send me the scrrenshot at my inbox, i will try to give you the solution.
-Facebook: https://facebook.com/Nasim.nimu2011
-Email: nasim.mahmud.1996@gmail.com
-Phone: 01777-424142
+
 ```
