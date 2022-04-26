@@ -1,7 +1,3 @@
-# Khobor24ghonta
-#### Django full functional newsportal web application.
-
-![Image of homeage of this repository](https://github.com/nasim-007/khobor24ghonta/blob/master/khobor.png)
 
 #### Prerequisite:
 ###### 1: python 3.8
