@@ -39,8 +39,8 @@ urlpatterns = [
 ]
 
 
-admin.site.site_header = "খবর২৪ঘন্টা এডমিন"
-admin.site.site_title = "খবর২৪ঘন্টা এডমিন পোর্টাল"
+admin.site.site_header = "news এডমিন"
+admin.site.site_title = "news এডমিন পোর্টাল"
 admin.site.index_title = "স্বাগতম খবর২৪ঘন্টা নিউজপোর্টালে!"
 
 urlpatterns += staticfiles_urlpatterns()
